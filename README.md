@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=230&section=header&text=Manoj%20Kumar%20P&fontSize=60&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Senior%20AI%20Engineer%20%C2%B7%20Generative%20%26%20Agentic%20AI%20%C2%B7%20Banking%20%26%20Payments&descSize=19&descAlignY=58&descAlign=50" width="100%" alt="Manoj Kumar P — Senior AI Engineer" />
+<img src="https://raw.githubusercontent.com/manojrevenkar12-web/manojrevenkar12-web/main/assets/banner.svg" width="100%" alt="Manoj Kumar P — Senior AI Engineer · Generative & Agentic AI · Banking & Payments" />
 
 <a href="https://github.com/manojrevenkar12-web">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=I+build+AI+systems+that+have+to+be+right+%E2%80%94+not+just+impressive.;Every+agent+ships+behind+a+release+gate+it+has+to+pass.;LangGraph+%C2%B7+RAG+%C2%B7+LLM+Evaluation+%C2%B7+Multi-Agent+Systems;14%2B+years+inside+global+banks+%E2%80%94+SWIFT%2C+ISO+20022%2C+KYC%2FAML;Berlin%2C+Germany+%C2%B7+open+to+roles+across+Germany" alt="Typing intro" />
@@ -330,10 +330,10 @@ flowchart LR
 
 <div align="center">
 
-<a href="https://github.com/manojrevenkar12-web">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manojrevenkar12-web&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&ring_color=38BDF8" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojrevenkar12-web&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&hide=html,css,jupyter%20notebook" alt="Top languages" />
-</a>
+<a href="https://github.com/manojrevenkar12-web?tab=followers"><img src="https://img.shields.io/github/followers/manojrevenkar12-web?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0F172A" alt="Followers" /></a>&nbsp;
+<a href="https://github.com/manojrevenkar12-web?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=Public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmanojrevenkar12-web&color=1E3A8A" alt="Public repos" /></a>&nbsp;
+<a href="https://github.com/manojrevenkar12-web/aml-investigator/actions"><img src="https://img.shields.io/github/actions/workflow/status/manojrevenkar12-web/aml-investigator/quality-gates.yml?style=for-the-badge&logo=githubactions&logoColor=white&label=aml-investigator%20CI&color=38BDF8" alt="CI status" /></a>&nbsp;
+<a href="https://github.com/manojrevenkar12-web/llm-abstention-tuning/actions"><img src="https://img.shields.io/github/actions/workflow/status/manojrevenkar12-web/llm-abstention-tuning/ci.yml?style=for-the-badge&logo=githubactions&logoColor=white&label=llm-abstention-tuning%20CI&color=38BDF8" alt="CI status" /></a>
 
 <br/><br/>
 
@@ -377,6 +377,6 @@ I'm based in **Berlin** and open to **Senior AI / Generative AI / Agentic AI Eng
 
 <sub>⭐ If one of these repos helps you, a star goes a long way.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/manojrevenkar12-web/manojrevenkar12-web/main/assets/footer.svg" width="100%" alt="" />
 
 </div>

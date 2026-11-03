@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Manoj Kumar P — Senior AI Engineer · Generative and Agentic AI · Banking and Payments">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1D4ED8" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0.9"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#38BDF8" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+
+  <!-- soft radial highlight -->
+  <ellipse cx="980" cy="40" rx="420" ry="160" fill="#38BDF8" fill-opacity="0.08"/>
+
+  <!-- waves -->
+  <g>
+    <path fill="url(#wave1)" d="M0,200 C150,160 300,240 450,205 C600,170 750,230 900,200 C1050,170 1150,210 1200,195 L1200,260 L0,260 Z">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite"
+        values="M0,200 C150,160 300,240 450,205 C600,170 750,230 900,200 C1050,170 1150,210 1200,195 L1200,260 L0,260 Z;
+                M0,210 C150,240 300,170 450,200 C600,230 750,175 900,205 C1050,235 1150,190 1200,205 L1200,260 L0,260 Z;
+                M0,200 C150,160 300,240 450,205 C600,170 750,230 900,200 C1050,170 1150,210 1200,195 L1200,260 L0,260 Z"/>
+    </path>
+    <path fill="url(#wave2)" d="M0,225 C200,250 400,205 600,228 C800,251 1000,210 1200,230 L1200,260 L0,260 Z">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite"
+        values="M0,225 C200,250 400,205 600,228 C800,251 1000,210 1200,230 L1200,260 L0,260 Z;
+                M0,232 C200,210 400,250 600,226 C800,205 1000,248 1200,222 L1200,260 L0,260 Z;
+                M0,225 C200,250 400,205 600,228 C800,251 1000,210 1200,230 L1200,260 L0,260 Z"/>
+    </path>
+  </g>
+
+  <!-- accent line -->
+  <rect x="60" y="150" width="520" height="3" rx="1.5" fill="url(#glow)"/>
+
+  <!-- text -->
+  <g font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif">
+    <text x="60" y="118" font-size="62" font-weight="800" fill="#FFFFFF" letter-spacing="-1">Manoj Kumar P</text>
+    <text x="60" y="186" font-size="21" font-weight="500" fill="#CBD5E1">Senior AI Engineer  ·  Generative &amp; Agentic AI  ·  Banking &amp; Payments</text>
+  </g>
+
+  <!-- right-side chips -->
+  <g font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">
+    <rect x="862" y="78" width="278" height="34" rx="17" fill="#0F172A" fill-opacity="0.85" stroke="#38BDF8" stroke-opacity="0.6"/>
+    <text x="1001" y="100" text-anchor="middle" fill="#7DD3FC">📍 Berlin · open to roles in Germany</text>
+    <rect x="862" y="122" width="278" height="34" rx="17" fill="#0F172A" fill-opacity="0.85" stroke="#38BDF8" stroke-opacity="0.6"/>
+    <text x="1001" y="144" text-anchor="middle" fill="#7DD3FC">LangGraph · RAG · LLM evaluation</text>
+  </g>
+</svg>
