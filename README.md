@@ -343,9 +343,10 @@ flowchart LR
 
 <br/><br/>
 
-<a href="https://github.com/manojrevenkar12-web">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojrevenkar12-web&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&title_color=38BDF8" width="100%" alt="Contribution graph" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojrevenkar12-web/manojrevenkar12-web/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/manojrevenkar12-web/manojrevenkar12-web/output/github-snake.svg" width="100%" alt="Contribution snake" />
+</picture>
 
 </div>
 
